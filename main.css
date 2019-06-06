@@ -1,6 +1,7 @@
 html  {
-    background: rgb(0,0,0);
-    font-family: 'Noto Serif', serif;
+    background: url(./YDGX660BX.jfif), no-repeat;
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-align: center;
   }
@@ -8,32 +9,20 @@ header {
   position: relative;
   margin: 50px 0;
 }
-h1 {
-  color: rgb(39, 133, 89);
-  font-size: 50px;
-  font-weight: 400;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  margin: 0;
-}
-
 h2 {
-  color: rgb(86, 32, 158);
+  color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: italic;
   font-weight: 400;
-  margin: 0 0 30px;
+  margin: 100px auto 0;
 }
-
-
-
 .keys {
   display: block;
   width: 100%;
   height: 350px;
   max-width: 880px;
   position: relative;
-  margin: 40px auto 0;
+  margin: 260px auto 0;
   cursor: none;
 }
 
@@ -51,7 +40,7 @@ h2 {
   float: left;
   width: 10%;
   height: 100%;
-  background: rgba(23, 182, 169, 0.8);    
+  background: rgba(255, 255, 255, 0.8);    
 }
 
 .key.sharp {
