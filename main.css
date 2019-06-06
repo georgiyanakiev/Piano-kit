@@ -53,6 +53,7 @@ h2 {
   z-index: 3;
 }
 
+
 .key[data-key="87"] {
   left: 7%;
 }
@@ -80,17 +81,18 @@ h2 {
 .key[data-key="80"] {
   left: 87%;    
 }
+
 .hints {
   display: block;
   width: 100%;
   opacity: 0;
   position: absolute;
   bottom: 7px;
-  transition: opacity .3s ease-out;
+  transition: opacity .5s ease-out;
   font-size: 30px;
 }
 
 .keys:hover .hints {
-  opacity: 1;
+  opacity: 2;
 }
   
