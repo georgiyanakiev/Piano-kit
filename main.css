@@ -1,12 +1,12 @@
 html  {
-    background: #000;
+    background: rgb(0,0,0);
     font-family: 'Noto Serif', serif;
     -webkit-font-smoothing: antialiased;
     text-align: center;
   }
 header {
   position: relative;
-  margin: 30px 0;
+  margin: 50px 0;
 }
 h1 {
   color: rgb(39, 133, 89);
@@ -91,9 +91,6 @@ h2 {
 .key[data-key="80"] {
   left: 87%;    
 }
-
-
-
 .hints {
   display: block;
   width: 100%;
