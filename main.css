@@ -13,8 +13,8 @@ h2 {
   color: rgb(255, 255, 255);
   font-size: 24px;
   font-style: italic;
-  font-weight: 400;
-  margin: 100px auto 0;
+  font-weight: 200;
+  margin: 290px auto 0;
 }
 .keys {
   display: block;
@@ -22,7 +22,7 @@ h2 {
   height: 350px;
   max-width: 880px;
   position: relative;
-  margin: 260px auto 0;
+  margin: 60px auto 0;
   cursor: none;
 }
 
